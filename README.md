@@ -1,7 +1,7 @@
 # Hi there, I'm Charlize Mikaela Nadela! 👋
 
 # 💫 About Me:
-👩🏻‍🎓 Pursuing a Bachelor of Science in Computer Science at Cavite State University<br>👩🏻‍💻 Expanding my skills through Full Stack Web Development Bootcamp at Learn Computer Today<br>💡 Specialize in both frontend and backend development<br>‎‍💼 With experience in creating business solutions, personal projects, and collaborative applications.
+👩🏻‍🎓 Pursuing a Bachelor of Science in Computer Science at Cavite State University<br>👩🏻‍💻 Expanding my skills through Full Stack Web Development Bootcamp at Learn Computer Today<br>💡 Specialize in both frontend and backend development<br>‎‍💼 With experience in creating business solutions, personal projects, and collaborative applications.<br>📧 **Email:** [ph.charlizenadela@gmail.com](mailto:ph.charlizenadela@gmail.com)  
 
 
 ## 🌐 Socials:
@@ -15,11 +15,3 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charlysss-l&theme=radical)
 ![Top Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charlysss-l&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlysss-l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-## 📫 Connect With Me
-
-📧 **Email:** [ph.charlizenadela@gmail.com](mailto:ph.charlizenadela@gmail.com)  
-📍 **Location:** Imus, Cavite, Philippines  
-💼 **LinkedIn:** [Charlize Mikaela Nadela](https://www.linkedin.com/in/charlize-mikaela-nadela-22905b348)  
-🐙 **GitHub:** [charlysss-l](https://github.com/charlysss-l)  
