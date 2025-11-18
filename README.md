@@ -12,6 +12,3 @@
 # 📊 GitHub Stats:
 ![Charlize's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlysss-l&show_icons=true&theme=radical&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charlysss-l&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charlysss-l&theme=radical)
-![Top Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charlysss-l&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlysss-l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
