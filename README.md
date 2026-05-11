@@ -4,7 +4,6 @@
 👩🏻‍🎓 A full stack web developer <br>
 👩🏻‍💻 Expanding my skills through Full Stack Web Development Bootcamp<br>
 💡 Interested in both frontend and backend development<br>
-💼 With experience in creating business solutions, personal projects, and collaborative applications.<br>
 📧 **Email:** [ph.charlizenadela@gmail.com](mailto:ph.charlizenadela@gmail.com) <br>
 💻 Portfolio: https://charlysss-l.github.io/Portfolio/
 
