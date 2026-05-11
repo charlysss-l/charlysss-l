@@ -1,9 +1,8 @@
 # Hi there, I'm Charlize Mikaela Nadela! 👋
 
 # 💫 About Me:
-👩🏻‍🎓 A full stack web developer <br>
-👩🏻‍💻 Expanding my skills through Full Stack Web Development Bootcamp<br>
-💡 Interested in both frontend and backend development<br>
+👩🏻‍💻 A full stack web developer <br>
+👩🏻‍🎓 Computer Science graduate and expanding knowledge in Full Stack Web Development Bootcamp<br>
 📧 **Email:** [ph.charlizenadela@gmail.com](mailto:ph.charlizenadela@gmail.com) <br>
 💻 Portfolio: https://charlysss-l.github.io/Portfolio/
 
