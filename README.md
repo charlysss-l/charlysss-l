@@ -6,9 +6,6 @@
 📧 **Email:** [ph.charlizenadela@gmail.com](mailto:ph.charlizenadela@gmail.com) <br>
 💻 Portfolio: https://charlysss-l.github.io/Portfolio/
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlizenadela-dev/)
-
 # 💻 Tech Stack:
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
